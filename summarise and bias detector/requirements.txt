@@ -1,0 +1,12 @@
+streamlit==1.36.0
+transformers==4.42.4
+torch
+sentencepiece
+accelerate
+newspaper3k
+beautifulsoup4
+requests
+tldextract
+nltk
+python-dotenv
+google-generativeai==0.7.2
